@@ -242,7 +242,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   cannonballPrefab: {fileID: 5036555550935144986, guid: 23abb0952d531b841bd0e10fa7a1622b, type: 3}
-  firePoint: {fileID: 7331510187496572515}
+  firePoint: {fileID: 7437997163065534558}
   spinSpeed: 45
   projectileSpeed: 20
   fireCooldown: 2
